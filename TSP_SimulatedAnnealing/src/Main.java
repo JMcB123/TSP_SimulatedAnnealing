@@ -1,7 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class Coursework {
+public class Main {
 	
 	public static void main(String[] args) throws FileNotFoundException {
 		long startTime = System.nanoTime();
